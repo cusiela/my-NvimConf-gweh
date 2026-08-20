@@ -1,0 +1,6 @@
+require('config.options')
+require('config.keybinds')
+require('config.lazy')
+require('config.transparency')
+require('config.alpha-open')
+-- require('config.ghostty-bg')
